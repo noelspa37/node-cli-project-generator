@@ -1,0 +1,28 @@
+{
+  "name": "npm-cli-project-generator",
+  "version": "1.0.0",
+  "description": "Generaror de proyectos node en js y ts",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/noelspa37/node-cli-project-generator.git"
+  },
+  "author": "Noel Npm <noel.platzi.spa.37@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/noelspa37/node-cli-project-generator/issues"
+  },
+  "bin": {
+    "npm-cli-project-creator": "./index.js"
+  },
+  "homepage": "https://github.com/noelspa37/node-cli-project-generator#readme",
+  "dependencies": {
+    "chalk": "^4.1.0",
+    "ejs": "^3.1.5",
+    "inquirer": "^7.3.3",
+    "shelljs": "^0.8.4"
+  }
+}
