@@ -1,6 +1,6 @@
 {
   "name": "npm-cli-project-generator",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Generaror de proyectos node en js y ts",
   "main": "index.js",
   "scripts": {
